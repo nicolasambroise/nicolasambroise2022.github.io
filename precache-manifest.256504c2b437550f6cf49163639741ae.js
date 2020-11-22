@@ -104,7 +104,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/favicon/android-icon-48x48.png"
   },
   {
-    "revision": "c44a1323bc61a48bff53408ebf032915",
+    "revision": "bdf543307d30d6638dc2b19b79db0a6f",
     "url": "/favicon/android-icon-512x512.png"
   },
   {
